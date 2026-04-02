@@ -1,17 +1,21 @@
 Kāds varētu būt projekta nosaukums?
-
+SummaryBot
 
 Ko projekts dara vienā teikumā?
-
+Telegram bots, kas no lietotāja ievadīta teksta ģenerē īsu, saprotamu kopsavilkumu, izmantojot AI.
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
-
+Tas ir produktivitātes un izglītības rīks, kas palīdz skolēniem un studentiem ātri saprast garus mācību tekstus un izcelt svarīgākos punktus.
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
-
+Skolēni un studenti, kuri vēlas efektīvāk apgūt mācību materiālu un ietaupīt laiku.
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
-
+Lietotājs sūta tekstu Telegram botā un saņem atpakaļ AI ģenerētu kopsavilkumu. 
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
-
+Lietotājs var nosūtīt tekstu Telegram botam
+Bots ģenerē īsu un saprotamu kopsavilkumu
+Bots parāda galvenos punktus (bullet points)
+Paziņojums, ja teksts ir pārāk īss vai nav iespējams apstrādāt
+Saglabā kopsavilkumu lietotāja arhīvā
