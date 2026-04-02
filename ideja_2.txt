@@ -1,17 +1,20 @@
 Kāds varētu būt projekta nosaukums?
-
+ExplainMe Bot
 
 Ko projekts dara vienā teikumā?
-
+Telegram bots, kas paskaidro mācību tēmas vienkāršā un saprotamā valodā.
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
-
+Šis projekts ir izglītojošs rīks, kas palīdz skolēniem un studentiem saprast sarežģītas tēmas, pārvēršot tās vienkāršos skaidrojumos.
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
-
+Skolēni un studenti, kuriem ir grūtības saprast mācību vielu.
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
-
+Lietotājs mijiedarbosies ar programmu caur Telegram botu, ievadot komandas vai tēmas nosaukumu
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
-
+Bots dod ne tikai definīciju, bet arī piemēru
+Vēl vienkāršāks skaidrojums
+Pēc skaidrojuma bots uzdod jautājumu
+Kļūdas paziņojums, ja tēma nav atrasta
