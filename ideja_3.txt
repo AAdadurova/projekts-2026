@@ -28,6 +28,6 @@ Saglabā kopsavilkumu lietotāja arhīvā
 5)Bots saglabā lietotāja kopsavilkumus, lai tos varētu vēlāk apskatīt.
 
 3 nefunkcionalas prasibas
-1)Bots ir vienkārši lietojams lietotājam tikai jānosūta teksts bez sarežģītām komandām.
+1)Bots apstrada datus jebkurā valoda.
 2)Izplides laiks neparsniedz 2 sekundes.
 3)Bots ģenerē kopsavilkumu dažu sekunžu laikā.
