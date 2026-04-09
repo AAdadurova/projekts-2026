@@ -11,7 +11,7 @@ Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēj
 Skolēni un studenti ar saspringto grafiku
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
-Telegram bots ar komandām (/add, /list, /done)
+Telegram bots ar komandām 
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
 Pievienot uzdevumus
@@ -19,3 +19,15 @@ Apskatīt uzdevumu sarakstu
 Atzīmēt kā izpildītu
 Atgādinājumi
 Prioritāšu noteikšana
+
+5 funkcionalas prasibas 
+1)Lietotājs var pievienot jaunu uzdevumu ar nosaukumu, termiņu un prioritāti.
+2)Bots parāda visus lietotāja uzdevumus (ar statusu, termiņu un prioritāti).
+3)Lietotājs var atzīmēt uzdevumu kā pabeigtu.
+4)Bots automātiski nosūta atgādinājumus pirms termiņa.
+5)Lietotājs var piešķirt vai mainīt uzdevuma prioritāti.
+
+3 nefunkcionalas prasibas
+1)Bots ir pieejams 24/7 (iznemot tehnisko iemeslu del).
+2)Izplides laiks neparsniedz 2 sekundes.
+3)Lietotāja dati tiek glabāti droši un nav pieejami citiem lietotājiem.
