@@ -20,10 +20,13 @@ Pēc skaidrojuma bots uzdod jautājumu
 Kļūdas paziņojums, ja tēma nav atrasta
 
 5 funkcionalas prasibas 
-Lietotājs var ievadīt mācību tēmu vai jautājumu, un bots to apstrādā.
-Bots sniedz vienkāršu un saprotamu tēmas skaidrojumu.
-Bots papildina skaidrojumu ar praktisku piemēru.
-Lietotājs var pieprasīt vēl vienkāršāku skaidrojumu.
-Bots uzdod lietotājam pārbaudes jautājumu, lai nostiprinātu izpratni.
+1)Lietotājs var ievadīt mācību tēmu vai jautājumu, un bots to apstrādā.
+2)Bots sniedz vienkāršu un saprotamu tēmas skaidrojumu.
+3)Bots papildina skaidrojumu ar praktisku piemēru.
+40Lietotājs var pieprasīt vēl vienkāršāku skaidrojumu.
+5)Bots uzdod lietotājam pārbaudes jautājumu, lai nostiprinātu izpratni.
 
 3 nefunkcionalas prasibas
+1)Bots ir pieejams 24/7 (iznemot tehnisko iemeslu del).
+2)Izplides laiks neparsniedz 2 sekundes.
+3)Bots darbojas dažādās ierīcēs caur Telegram.
