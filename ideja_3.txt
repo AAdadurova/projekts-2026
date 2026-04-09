@@ -19,3 +19,12 @@ Bots ģenerē īsu un saprotamu kopsavilkumu
 Bots parāda galvenos punktus (bullet points)
 Paziņojums, ja teksts ir pārāk īss vai nav iespējams apstrādāt
 Saglabā kopsavilkumu lietotāja arhīvā
+
+5 funkcionalas prasibas 
+1)Lietotājs var nosūtīt jebkāda veida tekstu Telegram botam.
+2)Bots automātiski izveido īsu un saprotamu ievadītā teksta kopsavilkumu.
+3)Bots papildus kopsavilkumam izvada svarīgākos punktus saraksta (bullet points) veidā.
+4)Bots informē lietotāju, ja teksts ir pārāk īss, tukšs vai nav apstrādājams.
+5)Bots saglabā lietotāja kopsavilkumus, lai tos varētu vēlāk apskatīt.
+
+3 nefunkcionalas prasibas
