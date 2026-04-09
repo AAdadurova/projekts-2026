@@ -18,3 +18,12 @@ Bots dod ne tikai definīciju, bet arī piemēru
 Vēl vienkāršāks skaidrojums
 Pēc skaidrojuma bots uzdod jautājumu
 Kļūdas paziņojums, ja tēma nav atrasta
+
+5 funkcionalas prasibas 
+Lietotājs var ievadīt mācību tēmu vai jautājumu, un bots to apstrādā.
+Bots sniedz vienkāršu un saprotamu tēmas skaidrojumu.
+Bots papildina skaidrojumu ar praktisku piemēru.
+Lietotājs var pieprasīt vēl vienkāršāku skaidrojumu.
+Bots uzdod lietotājam pārbaudes jautājumu, lai nostiprinātu izpratni.
+
+3 nefunkcionalas prasibas
