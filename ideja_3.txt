@@ -31,3 +31,15 @@ Saglabā kopsavilkumu lietotāja arhīvā
 1)Bots apstrada datus jebkurā valoda.
 2)Izplides laiks neparsniedz 2 sekundes.
 3)Bots ģenerē kopsavilkumu dažu sekunžu laikā.
+
+Cik ļoti mani aizrauj šī tēma?
+3
+Cik viegli ideja ir realizējama atbilstoši manam pašreizējam zināšanu līmenim? (1 — grūti, 5 — viegli)
+4
+Vai šī programma atrisina kādu reālu problēmu vai ir noderīga, saistoša ikdienā?
+3
+Vai šī programma atbilst visiem vērtēšanas kritērijiem?
+4
+Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam?
+4
+kopa:18
