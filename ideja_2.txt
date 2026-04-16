@@ -30,3 +30,15 @@ Kļūdas paziņojums, ja tēma nav atrasta
 1)Bots ir pieejams 24/7 (iznemot tehnisko iemeslu del).
 2)Izplides laiks neparsniedz 2 sekundes.
 3)Bots darbojas dažādās ierīcēs caur Telegram.
+
+Cik ļoti mani aizrauj šī tēma?
+4
+Cik viegli ideja ir realizējama atbilstoši manam pašreizējam zināšanu līmenim? (1 — grūti, 5 — viegli)
+4
+Vai šī programma atrisina kādu reālu problēmu vai ir noderīga, saistoša ikdienā?
+3
+Vai šī programma atbilst visiem vērtēšanas kritērijiem?
+5
+Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam?
+5
+kopa:21
