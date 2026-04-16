@@ -43,3 +43,38 @@ Vai šī programma atbilst visiem vērtēšanas kritērijiem?
 Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam?
 5
 koopa:23
+
+
+Atrast un salīdzinat vismaz divus līdzīgus jau esošus risinājumus.
+1. Todoist 2.Any.do
+Todoist:
+daudz uzdevumu
+vajag struktūru
+ilgtermiņa plānošana
+
+Any.do:
+vienkārša ikdienas lietošana
+ātra uzdevumu pievienošana
+vizuāls plānotājs
+
+Analizēt esošo risinājumu priekšrocības, trūkumus un lietojamības aspektus. (uzrakstīt plusus un mīnusus)
+Todoist:
++Skaists interface
++Var nevis rakstit uzdevumus bet uzrakstit voicemessage un programma to apstradas un pierakstis
++Loti vienkarsi atzimet ka uzdevums ir pabeigts vai mainit vina prioritati
+-Daļa funkciju tikai maksas versijā
+-Nav pielāgots studentu vajadzībām
+-Var kļūt sarežģīts iesācējiem
+
+Any.do:
++Var izdarit widgetu uz homescreen lai labak redzet neizpilditus un ienakosos uzdevumus
++Var rakstit botam whatsappa un vins pievienos uzdevumu aplikacija
++Ar ai palidzibu lielu tasku var sadalit daudz mazos
+-Ierobežotas funkcijas bez maksas
+-Nav studentiem specifisku funkciju
+-Nav pietiekami jaudīgs lieliem projektiem
+
+
+Izveidot ekrānšaviņus lai būtu redzams kā izskatās risinājums.
+
+
