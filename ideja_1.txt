@@ -31,3 +31,15 @@ Prioritāšu noteikšana
 1)Bots ir pieejams 24/7 (iznemot tehnisko iemeslu del).
 2)Izplides laiks neparsniedz 2 sekundes.
 3)Lietotāja dati tiek glabāti droši un nav pieejami citiem lietotājiem.
+
+Cik ļoti mani aizrauj šī tēma?
+4
+Cik viegli ideja ir realizējama atbilstoši manam pašreizējam zināšanu līmenim? (1 — grūti, 5 — viegli)
+5
+Vai šī programma atrisina kādu reālu problēmu vai ir noderīga, saistoša ikdienā?
+4
+Vai šī programma atbilst visiem vērtēšanas kritērijiem?
+5
+Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam?
+5
+koopa:23
